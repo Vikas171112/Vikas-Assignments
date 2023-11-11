@@ -1,0 +1,4 @@
+DOCTYPE is an "information" to the browser about what document type to expect.
+It gives the information to the browser that thew type of document to b e rendered.
+<!DOCTYPE html> specifies that the the type of document to be used is of html type.
+It also specifies the version of html to be used.
